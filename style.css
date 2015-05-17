@@ -1,0 +1,16 @@
+textarea {
+	border:none;
+	outline:none;
+	border-radius:5px;
+	width:80%;
+	margin-left:10%;
+	height:40px;
+	margin-top: 60px;
+	background:#cdcdcd;
+	box-shadow: 0 2px 0 #b3b3b3;
+	resize:none;
+	color:white;
+	font-size: 20px;
+	line-height: 40px;
+	overflow: hidden;
+}
