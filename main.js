@@ -32,3 +32,6 @@ app.on('ready', function() {
     mainWindow = null;
   });
 });
+// version
+console.log("automata started");
+console.log("Automata 0.1 Axiom");
