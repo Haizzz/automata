@@ -35,3 +35,4 @@ app.on('ready', function() {
 // version
 console.log("automata started");
 console.log("Automata 0.1 Axiom");
+
